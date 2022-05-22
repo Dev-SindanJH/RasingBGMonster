@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 3995212d39e81124698666b4907af9ee
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 1
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Bear_2_eyes_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 1004
+      width: 402
+      height: 63
+    spriteID: 2eb8431c1be096c4bbf9e2a73a79c245
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 62, y: 76}
+  - name: Bear_2_eyes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 675
+      y: 1145
+      width: 309
+      height: 40
+    spriteID: d750e1d37830da34c99302defdb1fe6f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 301, y: 171}
+  - name: Bear_2_eyes_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 675
+      y: 1075
+      width: 333
+      height: 62
+    spriteID: 9cdc53f96a283004fb584a1c9dfb872b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 314, y: 124}
+  - name: Bear_2_eyes_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 1075
+      width: 285
+      height: 75
+    spriteID: 0b7c4588c2824ce41b9c0ad6416d0a84
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 135}
+  - name: Bear_2_eyes_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1558
+      width: 310
+      height: 95
+    spriteID: 3c155d8cefc60e142be239dc17b14c51
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -370, y: 621}
+  - name: Bear_2_eyes_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1322
+      width: 325
+      height: 118
+    spriteID: 8025fd9206267214fa29fac9ba189f48
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -364, y: 397}
+  - name: Bear_2_hand_R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 180
+      y: 1661
+      width: 146
+      height: 143
+    spriteID: 3cf5612c5d94c7040b0d4069843adc20
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -617, y: 1159}
+  - name: Bear_2_hair_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1448
+      width: 293
+      height: 102
+    spriteID: 7802518bcfb68a24480ba8696364e9f1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -370, y: 354}
+  - name: Bear_2_hair_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 1837
+      width: 74
+      height: 90
+    spriteID: 6d47f1a2f141e0a43b7ae621ab5e6d21
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -116, y: 584}
+  - name: Bear_2_ears_R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 674
+      y: 705
+      width: 201
+      height: 201
+    spriteID: a245b1cb911dcd845a3bfe7a88554ac7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -112, y: -390}
+  - name: Bear_2_nose
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 1994
+      width: 50
+      height: 36
+    spriteID: 042ab8d80ff08f84792baf6d630df96e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -171, y: 1077}
+  - name: Bear_2_mouth_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 883
+      y: 895
+      width: 109
+      height: 89
+    spriteID: 058a9cebb9386104d9294e31e50b8fba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 431, y: 61}
+  - name: Bear_2_mouth_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 1979
+      width: 103
+      height: 64
+    spriteID: 16fe0dda249ad6046ac982f876e1b934
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -305, y: 1120}
+  - name: Bear_2_mouth_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 803
+      y: 4
+      width: 105
+      height: 154
+    spriteID: 940f23f0e71c4db45afd84ffa8456a5c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 355, y: -772}
+  - name: Bear_2_mouth_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 294
+      y: 1935
+      width: 73
+      height: 51
+    spriteID: 5f9eb797fc002c743b93a42a4126d570
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -167, y: 1063}
+  - name: Bear_2_chin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 705
+      width: 662
+      height: 291
+    spriteID: b9df7e27a3ca5294fb8f2ce838a3b530
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -248, y: 5}
+  - name: Bear_2_face
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 791
+      height: 693
+    spriteID: 1fb5c84533e47d84bb0906187a69e8f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -229, y: -608}
+  - name: Bear_2_ears_L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1661
+      width: 168
+      height: 168
+    spriteID: ca5fd0f1de0a78c45af43d5c39259c19
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -253, y: 584}
+  - name: Bear_2_body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1004
+      width: 370
+      height: 310
+    spriteID: be109bf304e163643bd33a3103775987
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -478, y: 610}
+  - name: Bear_2_legs_R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 883
+      y: 705
+      width: 135
+      height: 182
+    spriteID: d6043274a589b1d4f8a4be41069ec0a6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 207, y: 425}
+  - name: Bear_2_legs_L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1837
+      width: 135
+      height: 181
+    spriteID: 3baa00be1876d1342821eab8ac18c3de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -506, y: 1554}
+  - name: Bear_2_hand_L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 1837
+      width: 139
+      height: 134
+    spriteID: a42d8dd6164b3e247bc02d8d0a3d6c2a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -257, y: 1342}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1256, y: 1623}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Bear_2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+  - name: Bear_2_eyes_1
+    spriteName: Bear_2_eyes_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2eb8431c1be096c4bbf9e2a73a79c245
+    layerID: 42
+    mosaicPosition: {x: 382, y: 1004}
+  - name: Bear_2_eyes_2
+    spriteName: Bear_2_eyes_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d750e1d37830da34c99302defdb1fe6f
+    layerID: 41
+    mosaicPosition: {x: 675, y: 1145}
+  - name: Bear_2_eyes_3
+    spriteName: Bear_2_eyes_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9cdc53f96a283004fb584a1c9dfb872b
+    layerID: 40
+    mosaicPosition: {x: 675, y: 1075}
+  - name: Bear_2_eyes_4
+    spriteName: Bear_2_eyes_4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0b7c4588c2824ce41b9c0ad6416d0a84
+    layerID: 39
+    mosaicPosition: {x: 382, y: 1075}
+  - name: Bear_2_eyes_5
+    spriteName: Bear_2_eyes_5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3c155d8cefc60e142be239dc17b14c51
+    layerID: 38
+    mosaicPosition: {x: 4, y: 1558}
+  - name: Bear_2_eyes_6
+    spriteName: Bear_2_eyes_6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8025fd9206267214fa29fac9ba189f48
+    layerID: 37
+    mosaicPosition: {x: 4, y: 1322}
+  - name: Bear_2_hand_R
+    spriteName: Bear_2_hand_R
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3cf5612c5d94c7040b0d4069843adc20
+    layerID: 36
+    mosaicPosition: {x: 180, y: 1661}
+  - name: Bear_2_hair_1
+    spriteName: Bear_2_hair_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7802518bcfb68a24480ba8696364e9f1
+    layerID: 35
+    mosaicPosition: {x: 4, y: 1448}
+  - name: Bear_2_hair_2
+    spriteName: Bear_2_hair_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6d47f1a2f141e0a43b7ae621ab5e6d21
+    layerID: 34
+    mosaicPosition: {x: 294, y: 1837}
+  - name: Bear_2_ears_R
+    spriteName: Bear_2_ears_R
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a245b1cb911dcd845a3bfe7a88554ac7
+    layerID: 33
+    mosaicPosition: {x: 674, y: 705}
+  - name: Bear_2_nose
+    spriteName: Bear_2_nose
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 042ab8d80ff08f84792baf6d630df96e
+    layerID: 31
+    mosaicPosition: {x: 294, y: 1994}
+  - name: Bear_2_mouth_2
+    spriteName: Bear_2_mouth_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 058a9cebb9386104d9294e31e50b8fba
+    layerID: 25
+    mosaicPosition: {x: 883, y: 895}
+  - name: Bear_2_mouth_3
+    spriteName: Bear_2_mouth_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 16fe0dda249ad6046ac982f876e1b934
+    layerID: 21
+    mosaicPosition: {x: 147, y: 1979}
+  - name: Bear_2_mouth_4
+    spriteName: Bear_2_mouth_4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 940f23f0e71c4db45afd84ffa8456a5c
+    layerID: 16
+    mosaicPosition: {x: 803, y: 4}
+  - name: Bear_2_mouth_5
+    spriteName: Bear_2_mouth_5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5f9eb797fc002c743b93a42a4126d570
+    layerID: 13
+    mosaicPosition: {x: 294, y: 1935}
+  - name: Bear_2_chin
+    spriteName: Bear_2_chin
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b9df7e27a3ca5294fb8f2ce838a3b530
+    layerID: 12
+    mosaicPosition: {x: 4, y: 705}
+  - name: Bear_2_face
+    spriteName: Bear_2_face
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1fb5c84533e47d84bb0906187a69e8f4
+    layerID: 11
+    mosaicPosition: {x: 4, y: 4}
+  - name: Bear_2_ears_L
+    spriteName: Bear_2_ears_L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ca5fd0f1de0a78c45af43d5c39259c19
+    layerID: 10
+    mosaicPosition: {x: 4, y: 1661}
+  - name: Bear_2_body
+    spriteName: Bear_2_body
+    isGroup: 0
+    parentIndex: 0
+    spriteID: be109bf304e163643bd33a3103775987
+    layerID: 9
+    mosaicPosition: {x: 4, y: 1004}
+  - name: Bear_2_legs_R
+    spriteName: Bear_2_legs_R
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d6043274a589b1d4f8a4be41069ec0a6
+    layerID: 8
+    mosaicPosition: {x: 883, y: 705}
+  - name: Bear_2_legs_L
+    spriteName: Bear_2_legs_L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3baa00be1876d1342821eab8ac18c3de
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1837}
+  - name: Bear_2_hand_L
+    spriteName: Bear_2_hand_L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a42d8dd6164b3e247bc02d8d0a3d6c2a
+    layerID: 5
+    mosaicPosition: {x: 147, y: 1837}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Bear_2 Texture
+  prefabAssetName: Bear_2 Prefab
+  spriteLibAssetName: Bear_2 Sprite Lib
+  secondarySpriteTextures: []

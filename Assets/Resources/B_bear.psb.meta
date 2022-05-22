@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: c1dd4c012164eea4197f2f0b8f3c8cdf
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 1
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: B_Bear_Dummy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 473
+      y: 689
+      width: 227
+      height: 184
+    spriteID: fb7ae96e85a80954189c37d5a4991d91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 91, y: 339}
+  - name: B_Bear_Nose
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 258
+      y: 864
+      width: 28
+      height: 40
+    spriteID: ee7afd036d6e3d44094c3dc96e9a9997
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -213, y: 353}
+  - name: B_Bear_Ear_R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 693
+      y: 4
+      width: 169
+      height: 169
+    spriteID: 03d12c60deffbb044befce12f83e26ca
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -26, y: -706}
+  - name: B_Bear_Hair
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 708
+      y: 689
+      width: 292
+      height: 102
+    spriteID: 9c91c603530647749a9e5bf7da2bdf13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 338, y: -13}
+  - name: B_Bear_Eyes_1_L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 166
+      y: 864
+      width: 38
+      height: 53
+    spriteID: 0e37525b49fcec441b35c3b859bbf9ab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -237, y: 320}
+  - name: B_Bear_Eyes_1_R
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 864
+      width: 38
+      height: 53
+    spriteID: 158a15dd40214ae49b9c6e276ec73e53
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -400, y: 318}
+  - name: B_bear_Eyes_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 708
+      y: 837
+      width: 258
+      height: 16
+    spriteID: ccde0571b7e50be4ebf311fb2a65fa6a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 312, y: 276}
+  - name: B_Bear_Eyes_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 708
+      y: 799
+      width: 247
+      height: 30
+    spriteID: 03da9e59c05feb84597c3b76d1a0103a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 305, y: 237}
+  - name: B_Bear_Balltouch
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 689
+      width: 461
+      height: 167
+    spriteID: 054b5228bd21b8a4795a8f89b1b2307c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -312, y: 270}
+  - name: "B_Bear_Face\_+\_B_Bear_Shadow"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 681
+      height: 677
+    spriteID: 026f017c95f1ecb4e987eeda381aa2ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -272, y: -221}
+  - name: B_Bear_Ear_L
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 864
+      width: 154
+      height: 154
+    spriteID: 9b2efde5497c7c742a068e8369689795
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -322, y: 147}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 0
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1263, y: 1260}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: B_bear
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 17
+    mosaicPosition: {x: 0, y: 0}
+  - name: B_Bear_Dummy
+    spriteName: B_Bear_Dummy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fb7ae96e85a80954189c37d5a4991d91
+    layerID: 15
+    mosaicPosition: {x: 473, y: 689}
+  - name: B_Bear_Nose
+    spriteName: B_Bear_Nose
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ee7afd036d6e3d44094c3dc96e9a9997
+    layerID: 12
+    mosaicPosition: {x: 258, y: 864}
+  - name: B_Bear_Ear_R
+    spriteName: B_Bear_Ear_R
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 03d12c60deffbb044befce12f83e26ca
+    layerID: 11
+    mosaicPosition: {x: 693, y: 4}
+  - name: B_Bear_Hair
+    spriteName: B_Bear_Hair
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9c91c603530647749a9e5bf7da2bdf13
+    layerID: 10
+    mosaicPosition: {x: 708, y: 689}
+  - name: B_Bear_Eyes_1_L
+    spriteName: B_Bear_Eyes_1_L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0e37525b49fcec441b35c3b859bbf9ab
+    layerID: 9
+    mosaicPosition: {x: 166, y: 864}
+  - name: B_Bear_Eyes_1_R
+    spriteName: B_Bear_Eyes_1_R
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 158a15dd40214ae49b9c6e276ec73e53
+    layerID: 8
+    mosaicPosition: {x: 212, y: 864}
+  - name: B_bear_Eyes_2
+    spriteName: B_bear_Eyes_2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ccde0571b7e50be4ebf311fb2a65fa6a
+    layerID: 6
+    mosaicPosition: {x: 708, y: 837}
+  - name: B_Bear_Eyes_3
+    spriteName: B_Bear_Eyes_3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 03da9e59c05feb84597c3b76d1a0103a
+    layerID: 5
+    mosaicPosition: {x: 708, y: 799}
+  - name: B_Bear_Balltouch
+    spriteName: B_Bear_Balltouch
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 054b5228bd21b8a4795a8f89b1b2307c
+    layerID: 7
+    mosaicPosition: {x: 4, y: 689}
+  - name: "B_Bear_Face\_+\_B_Bear_Shadow"
+    spriteName: "B_Bear_Face\_+\_B_Bear_Shadow"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 026f017c95f1ecb4e987eeda381aa2ed
+    layerID: 4
+    mosaicPosition: {x: 4, y: 4}
+  - name: B_Bear_Ear_L
+    spriteName: B_Bear_Ear_L
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9b2efde5497c7c742a068e8369689795
+    layerID: 3
+    mosaicPosition: {x: 4, y: 864}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: B_bear Texture
+  prefabAssetName: B_bear Prefab
+  spriteLibAssetName: B_bear Sprite Lib
+  secondarySpriteTextures: []
