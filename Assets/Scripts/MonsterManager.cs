@@ -75,17 +75,30 @@ public class MonsterManager : MonoBehaviour
             curLevel++;
             UpdateData();
         }
+
+        public void InitData()
+        {
+            curLevel = PlayerPrefs.GetInt("Level");
+            curEXP = PlayerPrefs.GetFloat("EXP");
+        }
+
         public void UpdateData()
         {
             instance.text_EXP.text = curEXP.ToString()+"%";
             instance.img_EXP.fillAmount = curEXP * 0.01f;
             instance.text_Level.text = "Lv"+curLevel;
+
+            PlayerPrefs.SetInt("Level", curLevel);
+            PlayerPrefs.SetFloat("EXP", curEXP);
         }
     }
     MonsterInfo curInfo;
     public void SettingInfo()
     {
         curInfo = new MonsterInfo();
+        curInfo.InitData();
+
+        curInfo.UpdateData();
     }
 
 
